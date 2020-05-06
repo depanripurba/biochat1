@@ -1,0 +1,9 @@
+.chatbox{
+    display: block;
+    margin: auto;
+    width: 500px;
+    background: rgb(188, 236, 15);
+    color: rgb(194, 88, 88);
+    border-radius: 10px;
+    border: 2px solid black;
+}
