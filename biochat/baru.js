@@ -1,0 +1,1 @@
+console.log('nama saya adalah depanri purba')
